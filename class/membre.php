@@ -1,4 +1,6 @@
-<php
-class membre{
+<?php 
+class Membre {
+	
 }
+
 ?>
